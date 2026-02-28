@@ -7,9 +7,9 @@
     <input type="submit" value="This is a button link"><br>
   &ensp; &ensp;<img src="https://iili.io/qflv46l.jpg" alt="beauty"><br>
    &ensp;&ensp;<a href="https://github.com/mikekm02/school">linkme</a><br>
-   &ensp;&ensp;<img src="https://iili.io/qqfOUCP.jpg" width="82" height="86" title="white flower" alt="Flower"><br>
-   &ensp;&ensp;<img src="https://iili.io/qqfVMgt.jpg" width="82" height="86" title="white flower" alt="Flower"><br>
-   &ensp;&ensp;<img src="https://iili.io/qqfhSrN.jpg" width="82" height="86" title="white flower" alt="Flower"><br>
-   &ensp;&ensp;<img src="https://iili.io/qqfwoKl.jpg" width="82" height="86" title="white flower" alt="Flower"><br>
+   &ensp;&ensp;<img src="https://iili.io/qqfOUCP.jpg" alt="beauty"><br>
+   &ensp;&ensp;<img src="https://iili.io/qqfVMgt.jpg" alt="beauty"><br>
+   &ensp;&ensp;<img src="https://iili.io/qqfhSrN.jpg" alt="beauty"><br>
+   &ensp;&ensp;<img src="https://iili.io/qqfwoKl.jpg" alt="beauty"><br>
 
 
