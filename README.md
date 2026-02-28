@@ -9,7 +9,7 @@
    &ensp;&ensp;<a href="https://github.com/mikekm02/school">linkme</a><br>
    &ensp;&ensp;<img src="https://iili.io/qqfOUCP.jpg" alt="beauty"><br>
    &ensp;&ensp;<img src="https://iili.io/qqfVMgt.jpg" alt="beauty"><br>
-   &ensp;&ensp;<img src="https://iili.io/qqfhSrN.jpg" alt="beauty"><br>
+   &ensp;<img src="https://iili.io/qqfhSrN.jpg" alt="beauty"><br>
    &ensp;&ensp;<img src="https://iili.io/qqfwoKl.jpg" alt="beauty"><br>
 
 
